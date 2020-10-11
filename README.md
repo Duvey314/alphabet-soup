@@ -6,8 +6,6 @@
 * [Data](#data)
 * [Methodology](#methodology)
 * [Results](#results)
-* [Technology](#technology)
-* [Resources](#resources)
 
 ### Overview
 

@@ -1,6 +1,5 @@
 # Deep Learning and Neural Networks
 
-
 ## Table of contents
 * [Overview](#overview)
 * [Data](#data)
@@ -48,3 +47,7 @@ I then created a network of 3 layers each with 132 neurons and increased the num
 ### Results
 
 It seems that there is a limit to the accuracy of the model. The accuracy of 73% is fairly good with something this abstract. This model can be used as a tool for helping the company decide which projects to fund but should not be used as the sole decider.
+
+Further analysis would do well to look at other types of classifiers that can handle relationship between data like K nearest neighbor or randon tree classifier.
+
+
